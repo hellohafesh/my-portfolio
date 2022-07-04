@@ -17,3 +17,7 @@ section {
 .h-width {
     width: 50%;
 }
+
+.h-width img {
+    width: 100%;
+}
