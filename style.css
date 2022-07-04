@@ -3,12 +3,15 @@ body {
     margin: 0;
 }
 
+
+
 h1 {
     font-size: 50px;
 }
 
 .name {
     color: orangered;
+
 }
 
 .flex-con {
@@ -50,4 +53,38 @@ h1 {
     background-image: url(images/dream-bg\ -\ Copy.png);
     background-repeat: no-repeat;
     background-position: left
+}
+
+h2 {
+    font-size: 40px;
+}
+
+.ex-shadow {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 10px;
+    padding-left: 10px;
+    box-shadow: 10px 10px 40px orangered;
+
+}
+
+#border1 {
+    border-left: 7px solid orangered;
+
+}
+
+#border2 {
+    border-left: 7px solid blue;
+}
+
+
+.ex-area {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+footer {
+    text-align: center;
 }
