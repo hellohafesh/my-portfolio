@@ -45,3 +45,9 @@ h1 {
     background-repeat: no-repeat;
     background-position: right
 }
+
+.todo {
+    background-image: url(images/dream-bg\ -\ Copy.png);
+    background-repeat: no-repeat;
+    background-position: left
+}
